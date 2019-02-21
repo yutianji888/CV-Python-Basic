@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CV-Python-Basic.iml" filepath="$PROJECT_DIR$/.idea/CV-Python-Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CV-Python/.idea/CV-Python-Basic.iml" filepath="$PROJECT_DIR$/../CV-Python/.idea/CV-Python-Basic.iml" />
     </modules>
   </component>
 </project>
