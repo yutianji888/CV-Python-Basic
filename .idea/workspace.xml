@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c05859d-7811-4485-bd9c-8a8a43422bde" name="Default" comment="" />
+    <list default="true" id="0c05859d-7811-4485-bd9c-8a8a43422bde" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CV-Python-Basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CV-Python-Basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,27 +15,114 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$findContours2.coverage" NAME="findContours2 Coverage Results" MODIFIED="1551864212274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$watershed.coverage" NAME="watershed Coverage Results" MODIFIED="1552370710473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch27-分水岭算法图像分割" />
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$21_moments.coverage" NAME="21-moments Coverage Results" MODIFIED="1550817716995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
     <SUITE FILE_PATH="coverage/CV_Python_Basic$21_4_3.coverage" NAME="21.4.3形状匹配 Coverage Results" MODIFIED="1550752215608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$DrawTheBigContour.coverage" NAME="DrawTheBigContour Coverage Results" MODIFIED="1550823746238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
     <SUITE FILE_PATH="coverage/CV_Python_Basic$21_1_2HowToCreateContours.coverage" NAME="21.1.2HowToCreateContours Coverage Results" MODIFIED="1550742541852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$____.coverage" NAME="凸包-凸性检测-边界矩形-最小外接圆-拟合 Coverage Results" MODIFIED="1551869183960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$grabCut2.coverage" NAME="grabCut2 Coverage Results" MODIFIED="1552462713459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取" />
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$21_findContour.coverage" NAME="21-findContour Coverage Results" MODIFIED="1550754510145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$minAreaRect.coverage" NAME="minAreaRect Coverage Results" MODIFIED="1551865380315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$.coverage" NAME="轮廓的性质 Coverage Results" MODIFIED="1552361636463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="21.1.2HowToCreateContours.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../CV-Python/ch21-轮廓Contours/21.1.2HowToCreateContours.py">
+      <file leaf-file-name="DrawTheBigContour.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/DrawTheBigContour.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="850">
-              <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+            <state relative-caret-position="255">
+              <caret line="16" column="96" selection-start-line="16" selection-start-column="96" selection-end-line="16" selection-end-column="96" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="21.4.3形状匹配.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../CV-Python/ch21-轮廓Contours/21.4.3形状匹配.py">
+      <file leaf-file-name="findContours2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/findContours2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="374">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <element signature="e#157#167#0" expanded="true" />
+                <element signature="e#131#141#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minAreaRect.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/minAreaRect.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#49#59#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="凸包-凸性检测-边界矩形-最小外接圆-拟合.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/凸包-凸性检测-边界矩形-最小外接圆-拟合.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1156">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
+              <folding>
+                <element signature="e#83#93#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="凸缺陷.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/凸缺陷.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+              <folding>
+                <element signature="e#450#460#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="轮廓的性质.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/轮廓的性质.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#68#78#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="watershed.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch27-分水岭算法图像分割/watershed.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grabCut.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="grabCut2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+              <folding>
+                <element signature="e#257#275#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,6 +145,17 @@
       <list>
         <option value="$PROJECT_DIR$/ch21-轮廓Contours/21.1.2HowToCreateContours.py" />
         <option value="$PROJECT_DIR$/ch21-轮廓Contours/21.4.3形状匹配.py" />
+        <option value="$PROJECT_DIR$/ch21-轮廓Contours/21.4MoreFunctions.py" />
+        <option value="$PROJECT_DIR$/ch21-轮廓Contours/21-findContour.py" />
+        <option value="$PROJECT_DIR$/ch21-轮廓Contours/21-moments.py" />
+        <option value="$PROJECT_DIR$/ch21-轮廓Contours/DrawTheBigContour.py" />
+        <option value="$PROJECT_DIR$/ch21-轮廓Contours/findContours2.py" />
+        <option value="$PROJECT_DIR$/ch21-轮廓Contours/minAreaRect.py" />
+        <option value="$PROJECT_DIR$/ch21-轮廓Contours/凸包-凸性检测-边界矩形-最小外接圆-拟合.py" />
+        <option value="$PROJECT_DIR$/ch21-轮廓Contours/凸缺陷.py" />
+        <option value="$PROJECT_DIR$/ch21-轮廓Contours/轮廓的性质.py" />
+        <option value="$PROJECT_DIR$/ch27-分水岭算法图像分割/watershed.py" />
+        <option value="$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py" />
       </list>
     </option>
   </component>
@@ -83,13 +186,18 @@
         <subPane>
           <expand>
             <path>
-              <item name="CV-Python-Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CV-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="CV-Python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CV-Python-Basic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CV-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="CV-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="ch21-轮廓Contours" type="462c0819:PsiDirectoryNode" />
+              <item name="ch27-分水岭算法图像分割" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CV-Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CV-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="ch28-使用GrabCut算法进行交互式前景提取" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -107,6 +215,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取" />
+      <recent name="$PROJECT_DIR$/ch21-轮廓Contours" />
       <recent name="$PROJECT_DIR$/ch21-轮廓Contours" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -123,8 +233,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.21.4.3形状匹配">
-    <configuration name="21.1.2HowToCreateContours" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.grabCut2">
+    <configuration name="凸包-凸性检测-边界矩形-最小外接圆-拟合" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CV-Python-Basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,13 +247,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch21-轮廓Contours/21.1.2HowToCreateContours.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch21-轮廓Contours/凸包-凸性检测-边界矩形-最小外接圆-拟合.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="21.4.3形状匹配" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="凸缺陷" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CV-Python-Basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,20 +266,102 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch21-轮廓Contours/21.4.3形状匹配.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch21-轮廓Contours/凸缺陷.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="轮廓的性质" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CV-Python-Basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch21-轮廓Contours" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch21-轮廓Contours/轮廓的性质.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="grabCut2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CV-Python-Basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="minAreaRect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CV-Python-Basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch21-轮廓Contours" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch21-轮廓Contours/minAreaRect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="watershed" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CV-Python-Basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch27-分水岭算法图像分割" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch27-分水岭算法图像分割/watershed.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.21.1.2HowToCreateContours" />
-      <item itemvalue="Python.21.4.3形状匹配" />
+      <item itemvalue="Python.minAreaRect" />
+      <item itemvalue="Python.凸包-凸性检测-边界矩形-最小外接圆-拟合" />
+      <item itemvalue="Python.凸缺陷" />
+      <item itemvalue="Python.watershed" />
+      <item itemvalue="Python.grabCut2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.21.4.3形状匹配" />
-        <item itemvalue="Python.21.1.2HowToCreateContours" />
+        <item itemvalue="Python.grabCut2" />
+        <item itemvalue="Python.watershed" />
+        <item itemvalue="Python.凸缺陷" />
+        <item itemvalue="Python.凸包-凸性检测-边界矩形-最小外接圆-拟合" />
+        <item itemvalue="Python.minAreaRect" />
       </list>
     </recent_temporary>
   </component>
@@ -187,23 +379,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="-4" width="1845" height="1011" extended-state="6" />
+    <frame x="59" y="-4" width="1832" height="1005" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32265446" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17843246" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12597984" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32978722" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955357" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -221,46 +414,218 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../CV-Python/ch21-轮廓Contours/21.1.2HowToCreateContours.py">
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/DrawTheBigContour.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+        <state relative-caret-position="255">
+          <caret line="16" column="96" selection-start-line="16" selection-start-column="96" selection-end-line="16" selection-end-column="96" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CV-Python/ch21-轮廓Contours/21.4.3形状匹配.py">
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/findContours2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="374">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <element signature="e#157#167#0" expanded="true" />
+            <element signature="e#131#141#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1856506362/cv2/cv2/__init__.py">
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/minAreaRect.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5646" column="4" selection-start-line="5646" selection-start-column="4" selection-end-line="5646" selection-end-column="4" />
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#49#59#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CV-Python/ch21-轮廓Contours/21.1.2HowToCreateContours.py">
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/凸包-凸性检测-边界矩形-最小外接圆-拟合.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#83#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/凸缺陷.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          <folding>
+            <element signature="e#450#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/轮廓的性质.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#68#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch27-分水岭算法图像分割/watershed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="64" column="14" lean-forward="true" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21.1.2HowToCreateContours.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
           <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CV-Python/ch21-轮廓Contours/什么是轮廓.txt">
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21.4.3形状匹配.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21.1.2HowToCreateContours.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21.4MoreFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21.4.3形状匹配.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/chessboard.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/什么是轮廓.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/../CV-Python/ch21-轮廓Contours/21.4.3形状匹配.py">
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21-findContour.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        <state relative-caret-position="419">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21-moments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/DrawTheBigContour.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="96" selection-start-line="16" selection-start-column="96" selection-end-line="16" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/contour.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1856506362/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-595">
+          <caret line="7116" column="4" selection-start-line="7116" selection-start-column="4" selection-end-line="7116" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/findContours2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
-            <element signature="e#157#167#0" expanded="true" />
+            <element signature="e#131#141#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/minAreaRect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#49#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/凸包-凸性检测-边界矩形-最小外接圆-拟合.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#83#93#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/star.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/凸缺陷.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+          <folding>
+            <element signature="e#450#460#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/轮廓的层次结构.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/轮廓的性质.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#68#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch27-分水岭算法图像分割/watershed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+          <folding>
+            <element signature="e#257#275#0" expanded="true" />
           </folding>
         </state>
       </provider>
