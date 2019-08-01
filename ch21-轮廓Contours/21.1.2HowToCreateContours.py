@@ -27,7 +27,7 @@ print("ret: %s" % ret, "thresh: %s" % thresh)
 img, contour, hiserarchy = cv2.findContours(thresh, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
 print('len(contours):', len(contour))
 
-contours = [cnt for cnt in contour if cv2.contourArea(cnt)>200] # 过滤太小的contour
+contours = [cnt for cnt in contour if cv2.contourArea(cnt) > 200] # 过滤太小的contour
 print("过滤太小的contours:", len(contours))
 
 # 它的第一个参数是原始图像，第二个参数是轮廓，一个Python 列表。第三个参数是轮廓的索引（在绘制独立轮廓是很有用，当设置为-1 时绘制所有轮廓）。接下来的参数是轮廓的颜色和厚度等。

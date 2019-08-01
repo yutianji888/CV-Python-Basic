@@ -8,6 +8,13 @@
 import cv2
 import numpy as np
 
+im = cv2.imread('star.jpg')
+imgray = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
+
+ret, thresh = cv2.threshold(imgray, 127, 255, 0)
+binary, contours, hierarchy = cv2.findContours(thresh, 2, 1)
+
+cnt = contours[0]
 # 边界矩形的宽高比
 x, y, w, h = cv2.boundingRect(cnt)
 aspect_ratio = float(w) / h

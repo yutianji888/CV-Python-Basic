@@ -2,29 +2,194 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c05859d-7811-4485-bd9c-8a8a43422bde" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ch01-关于OpenCV/OpenCV-Python教程简介.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01-关于OpenCV/OpenCV-axis-basics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01-关于OpenCV/OpenCV图像坐标系.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01-关于OpenCV/OpenCV图像坐标系_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01-关于OpenCV/axis.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch01-关于OpenCV/img_logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000003.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000004.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000005.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000006.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000011.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000021.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000031.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000041.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000051.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000061.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000071.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000081.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/000091.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-安装OpenCV/macOS-使用conda安装opencv3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-安装OpenCV/使用Docker+OpenCV.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-安装OpenCV/在macOS安装OpenCV_Python.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-安装OpenCV/安装OpenCV后验证.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-安装OpenCV/最简单-使用pip安装opencv-python和opencv-contrib-python/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-安装OpenCV/最简单-使用pip安装opencv-python和opencv-contrib-python/face_recognize.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-安装OpenCV/最简单-使用pip安装opencv-python和opencv-contrib-python/messi5-gray.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-安装OpenCV/最简单-使用pip安装opencv-python和opencv-contrib-python/messi5-thresh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-安装OpenCV/最简单-使用pip安装opencv-python和opencv-contrib-python/opencv-contrib-python.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-安装OpenCV/最简单-使用pip安装opencv-python和opencv-contrib-python/test-opencv-python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-安装OpenCV/最简单-使用pip安装opencv-python和opencv-contrib-python/test_camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-安装OpenCV/最简单-使用pip安装opencv-python和opencv-contrib-python/test_opencv_contrib_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02-安装OpenCV/最简单-使用pip安装opencv-python和opencv-contrib-python/test_video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03-相关教程及视频/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-图片/4.1_imread_imshow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-图片/4.imread_imshow_imwrite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-图片/4.matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-图片/black.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-图片/cv2_imread_path_not_found.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-图片/messi5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-图片/messigray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-图片/show_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-图片/white.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-图片/创建黑白图片1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04-图片/颜色转换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-视频/5.VideoCapture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-视频/5.VideoPlay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-视频/5.VideoWriter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-视频/Minions_banana.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-视频/VideoCaptureOnePicture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-视频/output.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-视频/two_camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-视频/相机_相片相似度/camera_compare1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05-视频/相机_相片相似度/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-绘图函数/DroidSansFallback.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-绘图函数/DroidSansFallback.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-绘图函数/draw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-绘图函数/draw_opencv_logo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-绘图函数/drawing_UTF-8_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-绘图函数/freetype.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-绘图函数/opencv_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-绘图函数/opencv_logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-绘图函数/random-circles2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-绘图函数/wqy-zenhei.ttc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06-绘图函数/画圆圈.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-把鼠标当画笔/7.MouseCallback.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-把鼠标当画笔/7.draw_circle_rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-把鼠标当画笔/putText.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07-把鼠标当画笔/鼠标左右键回调函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch08-用滑动条做调色板/8.Trackbar_bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch08-用滑动条做调色板/8.createTrackbar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09-图像的基础操作/9.MakeBorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09-图像的基础操作/9.img_roi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09-图像的基础操作/9.itemset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09-图像的基础操作/9.shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09-图像的基础操作/9.split_color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09-图像的基础操作/split_color2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/10.AddWeighted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/10.bitwise_and.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/1112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/crop0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/crop1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/desk_bgimg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/poker-threshold.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/subtract1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/subtract2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/图像相减1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/图像相减2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/图像相减3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/图像相减_camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/长方形1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10-图像上的算术运算/长方形2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11-程序性能检测及优化/11.getTickCount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11-程序性能检测及优化/11.ipython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11-程序性能检测及优化/11.useOptimized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13-颜色空间转换/1.cvtColor_flag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13-颜色空间转换/13.find_object_hsv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13-颜色空间转换/2.物体追踪_blue_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13-颜色空间转换/乒乓球.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14-几何变换/14.1扩展缩放resize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14-几何变换/14.2评移-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14-几何变换/14.2评移.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14-几何变换/14.wrapAffine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14-几何变换/14.仿射变换getAffineTransform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14-几何变换/14.旋转getRotationMatrix2D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14-几何变换/14.透视变换getPerspectiveTransform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14-几何变换/drawing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15-图像阈值/15-How-OTSU-work.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15-图像阈值/15.THRESH_OTSU.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15-图像阈值/15.adaptiveThreshold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15-图像阈值/15.简单阈值threshold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15-图像阈值/grey-gradient.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15-图像阈值/noisy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16-图像平衡/16.filter2D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16-图像平衡/图像模糊-平均.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch17-形态学转换/17.dilate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch17-形态学转换/17.erode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch17-形态学转换/17.其他.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch17-形态学转换/j.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch18-图像梯度/18.Sobel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch18-图像梯度/一个重要的事.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch19-Canny边缘检测/19.Canny.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch20-图像金字塔/20.Apple_orange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch20-图像金字塔/apple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch20-图像金字塔/orange.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch20-图像金字塔/图像金字塔.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/22.1.2-绘制直方图-matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/22.2.2-CLAHE有限对比适应性直方图均衡化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/22.3-2D直方图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/22.3.4.hsv_hist-绘制2D直方图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/22.4-OPenCV中的反向投影.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/clahe_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/hist-bgr多通道.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/hist-normalized-numpy-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/hist-normalized-numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/hist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/mask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/tsukuba_l.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/使用opencv进行直方图均衡化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch22-直方图/直方图的计算 绘制与分析.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch23-图像变换/23.1.3 DFT的性能优化.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch23-图像变换/23.1.4 为什么拉普拉斯算子是高通滤波器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch23-图像变换/fftshift-Numpy中的傅里叶变换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch23-图像变换/fftshift-abs-Numpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch23-图像变换/openCV中的傅里叶变换-逆DFT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch23-图像变换/opencv中的傅里叶变换-DFT.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch24-模板匹配/24.1-OpenCV中的末班匹配-matchTemplate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch24-模板匹配/24.2-多对象的模板匹配-Multiple-objects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch25-Hough直线变换/25.1-OpenCV中的霍夫变换-HoughLines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch25-Hough直线变换/25.2-Probabilistic-Hough-Transform-HoughLinesP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch25-Hough直线变换/HoughLinesP_camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch25-Hough直线变换/LineSegmentDectector1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch25-Hough直线变换/pokerQ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch25-斑点检测/blob.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch25-斑点检测/blob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch25-斑点检测/blob_camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch25-斑点检测/斑点检测SimpleBlobDetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch26-Hough圆环变换/4HDL7T.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles_camera.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles_chess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles_chess1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles_eyes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch26-Hough圆环变换/QJ84BL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch26-Hough圆环变换/TLFOLV.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch26-Hough圆环变换/X8IWYE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch26-Hough圆环变换/eye-color-blue-z-c-660x440.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch29-理解图像特征/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch30-Harris角点检测/30.1-OpenCV-Harris角点检测-cornerHarris.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch30-Harris角点检测/30.2-亚像素级精确度的角点-cornerSubPix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch30-Harris角点检测/subpixel5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch31-Shi-Tomasi角点检测-适合于跟踪的图像特征/goodFeaturesToTrack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch32-介绍SIFT/sift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch32-介绍SIFT/sift_keypoints.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch33-介绍SURF/surf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch34-角点检测的FAST算法/fast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch34-角点检测的FAST算法/fast_false.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch34-角点检测的FAST算法/fast_true.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch35-BRIEF/brief.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch36-ORB/orb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch37-特征匹配/37.2-对ORB描述进行蛮力匹配.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch37-特征匹配/37.4-SIF_match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch37-特征匹配/37.5-FLANN匹配器.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch38-使用特征匹配和单应性查找对象/findHomography.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/Camshift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/Meanshift.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/q.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/s.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/ÿ.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my111video-retrieval/cmf_video_retrieval.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my111video-retrieval/fb_video_retrieval.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my111video-retrieval/script/cmf_video_fingerprint_export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my111video-retrieval/script/cmf_video_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my111video-retrieval/script/cmf_video_url_get.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my111video-retrieval/script/down_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my111video-retrieval/script/fb_video_fingerprint_export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my111video-retrieval/script/fb_video_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my111video-retrieval/script/fb_video_url_get.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my111video-retrieval/script/video_download.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CV-Python-Basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CV-Python-Basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch01-关于OpenCV/OpenCV图像坐标系_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch01-关于OpenCV/OpenCV图像坐标系_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch21-轮廓Contours/21.1.2HowToCreateContours.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch21-轮廓Contours/21.1.2HowToCreateContours.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch21-轮廓Contours/DrawTheBigContour.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch21-轮廓Contours/DrawTheBigContour.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch21-轮廓Contours/minAreaRect.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch21-轮廓Contours/minAreaRect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch21-轮廓Contours/凸包-凸性检测-边界矩形-最小外接圆-拟合.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch21-轮廓Contours/凸包-凸性检测-边界矩形-最小外接圆-拟合.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch21-轮廓Contours/轮廓的性质.py" beforeDir="false" afterPath="$PROJECT_DIR$/ch21-轮廓Contours/轮廓的性质.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,63 +199,159 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/CV_Python$OpenCV_test.coverage" NAME="OpenCV图像坐标系_test Coverage Results" MODIFIED="1553140929714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01-关于OpenCV" />
-    <SUITE FILE_PATH="coverage/CV_Python_Basic$watershed.coverage" NAME="watershed Coverage Results" MODIFIED="1552370710473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch27-分水岭算法图像分割" />
-    <SUITE FILE_PATH="coverage/CV_Python_Basic$21_moments.coverage" NAME="21-moments Coverage Results" MODIFIED="1550817716995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
-    <SUITE FILE_PATH="coverage/CV_Python_Basic$21_4_3.coverage" NAME="21.4.3形状匹配 Coverage Results" MODIFIED="1550752215608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
-    <SUITE FILE_PATH="coverage/CV_Python_Basic$DrawTheBigContour.coverage" NAME="DrawTheBigContour Coverage Results" MODIFIED="1550823746238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$fftshift_Numpy.coverage" NAME="fftshift-Numpy中的傅里叶变换 Coverage Results" MODIFIED="1559551805884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch23-图像变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$OpenCV_test.coverage" NAME="OpenCV图像坐标系_test Coverage Results" MODIFIED="1555484788553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch01-关于OpenCV" />
+    <SUITE FILE_PATH="coverage/CV_Python$video_download.coverage" NAME="video_download Coverage Results" MODIFIED="1558347311449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my111video-retrieval/script" />
+    <SUITE FILE_PATH="coverage/CV_Python$30_1_OpenCV_Harris_cornerHarris.coverage" NAME="30.1-OpenCV-Harris角点检测-cornerHarris Coverage Results" MODIFIED="1561028701812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch30-Harris角点检测" />
+    <SUITE FILE_PATH="coverage/CV_Python$4_matplotlib.coverage" NAME="4.matplotlib Coverage Results" MODIFIED="1555554023751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04-图片" />
+    <SUITE FILE_PATH="coverage/CV_Python$37_4_SIF_match.coverage" NAME="37.4-SIF_match Coverage Results" MODIFIED="1561620044640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch37-特征匹配" />
+    <SUITE FILE_PATH="coverage/CV_Python$37_2_ORB.coverage" NAME="37.2-对ORB描述进行蛮力匹配 Coverage Results" MODIFIED="1561618952423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch37-特征匹配" />
+    <SUITE FILE_PATH="coverage/CV_Python$5_VideoPlay.coverage" NAME="5.VideoPlay Coverage Results" MODIFIED="1555573674367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05-视频" />
+    <SUITE FILE_PATH="coverage/CV_Python$9_split_color.coverage" NAME="9.split_color Coverage Results" MODIFIED="1555914902540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09-图像的基础操作" />
+    <SUITE FILE_PATH="coverage/CV_Python$opencv.coverage" NAME="使用opencv进行直方图均衡化 Coverage Results" MODIFIED="1557476062747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch22-直方图" />
+    <SUITE FILE_PATH="coverage/CV_Python$15_adaptiveThreshold.coverage" NAME="15.adaptiveThreshold Coverage Results" MODIFIED="1556013904002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch15-图像阈值" />
+    <SUITE FILE_PATH="coverage/CV_Python$.coverage" NAME="轮廓的性质 Coverage Results" MODIFIED="1557042003474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$4_imread_imshow_imwrite.coverage" NAME="4.imread_imshow_imwrite Coverage Results" MODIFIED="1555553775514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04-图片" />
+    <SUITE FILE_PATH="coverage/CV_Python$7_draw_circle_rectangle.coverage" NAME="7.draw_circle_rectangle Coverage Results" MODIFIED="1555656389065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07-把鼠标当画笔" />
+    <SUITE FILE_PATH="coverage/CV_Python$9_img_roi.coverage" NAME="9.img_roi Coverage Results" MODIFIED="1555903683057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09-图像的基础操作" />
+    <SUITE FILE_PATH="coverage/CV_Python$17_dilate.coverage" NAME="17.dilate Coverage Results" MODIFIED="1556177561044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch17-形态学转换" />
+    <SUITE FILE_PATH="coverage/CV_Python$show_image.coverage" NAME="show_image Coverage Results" MODIFIED="1555556854349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04-图片" />
+    <SUITE FILE_PATH="coverage/CV_Python$py_test_in_test_opencv_contrib_python_py.coverage" NAME="py.test in test_opencv_contrib_python.py Coverage Results" MODIFIED="1555497904490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02-安装OpenCV/最简单-使用pip安装opencv-python和opencv-contrib-python" />
+    <SUITE FILE_PATH="coverage/CV_Python$_.coverage" NAME="图像模糊-平均 Coverage Results" MODIFIED="1556163252568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch16-图像平衡" />
     <SUITE FILE_PATH="coverage/CV_Python_Basic$minAreaRect.coverage" NAME="minAreaRect Coverage Results" MODIFIED="1551865380315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
-    <SUITE FILE_PATH="coverage/CV_Python$minAreaRect.coverage" NAME="minAreaRect Coverage Results" MODIFIED="1552464315675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$14_1resize.coverage" NAME="14.1扩展缩放resize Coverage Results" MODIFIED="1556005485057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch14-几何变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$22_2_2_CLAHE.coverage" NAME="22.2.2-CLAHE有限对比适应性直方图均衡化 Coverage Results" MODIFIED="1557221425981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch22-直方图" />
+    <SUITE FILE_PATH="coverage/CV_Python$surf.coverage" NAME="surf Coverage Results" MODIFIED="1561444918370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch33-介绍SURF" />
+    <SUITE FILE_PATH="coverage/CV_Python$8_Trackbar_bar.coverage" NAME="8.Trackbar_bar Coverage Results" MODIFIED="1555901741207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08-用滑动条做调色板" />
+    <SUITE FILE_PATH="coverage/CV_Python$draw.coverage" NAME="draw Coverage Results" MODIFIED="1555640281243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06-绘图函数" />
+    <SUITE FILE_PATH="coverage/CV_Python$9_MakeBorder.coverage" NAME="9.MakeBorder Coverage Results" MODIFIED="1555914199931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09-图像的基础操作" />
+    <SUITE FILE_PATH="coverage/CV_Python$fftshift_abs_Numpy.coverage" NAME="fftshift-abs-Numpy Coverage Results" MODIFIED="1559551512897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch23-图像变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$findHomography.coverage" NAME="findHomography Coverage Results" MODIFIED="1561630772241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch38-使用特征匹配和单应性查找对象" />
+    <SUITE FILE_PATH="coverage/CV_Python$8_createTrackbar.coverage" NAME="8.createTrackbar Coverage Results" MODIFIED="1555899312562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch08-用滑动条做调色板" />
+    <SUITE FILE_PATH="coverage/CV_Python$14_getAffineTransform.coverage" NAME="14.仿射变换getAffineTransform Coverage Results" MODIFIED="1556010376519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch14-几何变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$19_Canny.coverage" NAME="19.Canny Coverage Results" MODIFIED="1556265929959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch19-Canny边缘检测" />
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$watershed.coverage" NAME="watershed Coverage Results" MODIFIED="1552370710473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch27-分水岭算法图像分割" />
+    <SUITE FILE_PATH="coverage/CV_Python$22_4_OPenCV.coverage" NAME="22.4-OPenCV中的反向投影 Coverage Results" MODIFIED="1557297836184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch22-直方图" />
+    <SUITE FILE_PATH="coverage/CV_Python$goodFeaturesToTrack.coverage" NAME="goodFeaturesToTrack Coverage Results" MODIFIED="1561086450875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch31-Shi-Tomasi角点检测-适合于跟踪的图像特征" />
+    <SUITE FILE_PATH="coverage/CV_Python$21_1_2HowToCreateContours.coverage" NAME="21.1.2HowToCreateContours Coverage Results" MODIFIED="1557039466630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$openCV_DFT.coverage" NAME="openCV中的傅里叶变换-逆DFT Coverage Results" MODIFIED="1559553223252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch23-图像变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$22_3_4_hsv_hist_2D.coverage" NAME="22.3.4.hsv_hist-绘制2D直方图 Coverage Results" MODIFIED="1557224232024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch22-直方图" />
     <SUITE FILE_PATH="coverage/CV_Python_Basic$findContours2.coverage" NAME="findContours2 Coverage Results" MODIFIED="1551864212274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$findContours2.coverage" NAME="findContours2 Coverage Results" MODIFIED="1557041521165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$blob.coverage" NAME="blob Coverage Results" MODIFIED="1560397719651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch25-斑点检测" />
+    <SUITE FILE_PATH="coverage/CV_Python$1_cvtColor_flag.coverage" NAME="1.cvtColor_flag Coverage Results" MODIFIED="1556001275385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch13-颜色空间转换" />
+    <SUITE FILE_PATH="coverage/CV_Python$fast.coverage" NAME="fast Coverage Results" MODIFIED="1561531543509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch34-角点检测的FAST算法" />
+    <SUITE FILE_PATH="coverage/CV_Python$brief.coverage" NAME="brief Coverage Results" MODIFIED="1561532244776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch35-BRIEF" />
+    <SUITE FILE_PATH="coverage/CV_Python$hist_normalized_numpy.coverage" NAME="hist-normalized-numpy Coverage Results" MODIFIED="1557458052521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch22-直方图" />
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$21_moments.coverage" NAME="21-moments Coverage Results" MODIFIED="1550817716995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$hist_bgr.coverage" NAME="hist-bgr多通道 Coverage Results" MODIFIED="1557399039347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch22-直方图" />
+    <SUITE FILE_PATH="coverage/CV_Python$14_getRotationMatrix2D.coverage" NAME="14.旋转getRotationMatrix2D Coverage Results" MODIFIED="1556009851835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch14-几何变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$HoughCircles_eyes.coverage" NAME="HoughCircles_eyes Coverage Results" MODIFIED="1561017329357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch26-Hough圆环变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$17_.coverage" NAME="17.其他 Coverage Results" MODIFIED="1556178646394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch17-形态学转换" />
+    <SUITE FILE_PATH="coverage/CV_Python$7_MouseCallback.coverage" NAME="7.MouseCallback Coverage Results" MODIFIED="1555659939819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch07-把鼠标当画笔" />
+    <SUITE FILE_PATH="coverage/CV_Python$opencv_DFT.coverage" NAME="opencv中的傅里叶变换-DFT Coverage Results" MODIFIED="1559552601324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch23-图像变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$2.coverage" NAME="长方形2 Coverage Results" MODIFIED="1555989741101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10-图像上的算术运算" />
+    <SUITE FILE_PATH="coverage/CV_Python$13_find_object_hsv.coverage" NAME="13.find_object_hsv Coverage Results" MODIFIED="1556001884435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch13-颜色空间转换" />
+    <SUITE FILE_PATH="coverage/CV_Python$11_getTickCount.coverage" NAME="11.getTickCount Coverage Results" MODIFIED="1555990778544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch11-程序性能检测及优化" />
+    <SUITE FILE_PATH="coverage/CV_Python$drawing_UTF_8_strings.coverage" NAME="drawing_UTF-8_strings Coverage Results" MODIFIED="1555641498188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06-绘图函数" />
+    <SUITE FILE_PATH="coverage/CV_Python$hist_normalized_numpy_2.coverage" NAME="hist-normalized-numpy-2 Coverage Results" MODIFIED="1557459375584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch22-直方图" />
+    <SUITE FILE_PATH="coverage/CV_Python$24_2__Multiple_objects.coverage" NAME="24.2-多对象的模板匹配-Multiple-objects Coverage Results" MODIFIED="1560223070183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch24-模板匹配" />
+    <SUITE FILE_PATH="coverage/CV_Python$HoughCircles_camera.coverage" NAME="HoughCircles_camera Coverage Results" MODIFIED="1560500381482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch26-Hough圆环变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$utils.coverage" NAME="utils Coverage Results" MODIFIED="1555576531246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05-视频/相机_相片相似度" />
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$.coverage" NAME="轮廓的性质 Coverage Results" MODIFIED="1552361636463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$cv2_imread_path_not_fond.coverage" NAME="cv2_imread_path_not_fond Coverage Results" MODIFIED="1555555180490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04-图片" />
+    <SUITE FILE_PATH="coverage/CV_Python$22_1_2__matplotlib.coverage" NAME="22.1.2-绘制直方图-matplotlib Coverage Results" MODIFIED="1557220845415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch22-直方图" />
+    <SUITE FILE_PATH="coverage/CV_Python$VideoCaptureOnePicture.coverage" NAME="VideoCaptureOnePicture Coverage Results" MODIFIED="1555576183810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05-视频" />
+    <SUITE FILE_PATH="coverage/CV_Python$HoughLinesP_camera.coverage" NAME="HoughLinesP_camera Coverage Results" MODIFIED="1560395807228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch25-Hough直线变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$9_shape.coverage" NAME="9.shape Coverage Results" MODIFIED="1555914497154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09-图像的基础操作" />
+    <SUITE FILE_PATH="coverage/CV_Python$15_THRESH_OTSU.coverage" NAME="15.THRESH_OTSU Coverage Results" MODIFIED="1556015645276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch15-图像阈值" />
+    <SUITE FILE_PATH="coverage/CV_Python$14_2_2.coverage" NAME="14.2评移-2 Coverage Results" MODIFIED="1556005963607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch14-几何变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$blob_camera.coverage" NAME="blob_camera Coverage Results" MODIFIED="1560408435927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch25-斑点检测" />
+    <SUITE FILE_PATH="coverage/CV_Python$video_main.coverage" NAME="video_main Coverage Results" MODIFIED="1558338208537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my111video-retrieval/script" />
+    <SUITE FILE_PATH="coverage/CV_Python$HoughCircles_chess.coverage" NAME="HoughCircles_chess Coverage Results" MODIFIED="1560500492989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch26-Hough圆环变换" />
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$21_findContour.coverage" NAME="21-findContour Coverage Results" MODIFIED="1550754510145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$25_1_OpenCV_HoughLines.coverage" NAME="25.1-OpenCV中的霍夫变换-HoughLines Coverage Results" MODIFIED="1560394859730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch25-Hough直线变换" />
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$DrawTheBigContour.coverage" NAME="DrawTheBigContour Coverage Results" MODIFIED="1550823746238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$two_camera.coverage" NAME="two_camera Coverage Results" MODIFIED="1555575741878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05-视频" />
+    <SUITE FILE_PATH="coverage/CV_Python$16_filter2D.coverage" NAME="16.filter2D Coverage Results" MODIFIED="1556162927998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch16-图像平衡" />
+    <SUITE FILE_PATH="coverage/CV_Python$20_Apple_orange.coverage" NAME="20.Apple_orange Coverage Results" MODIFIED="1556266880148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch20-图像金字塔" />
+    <SUITE FILE_PATH="coverage/CV_Python$22_3_2D.coverage" NAME="22.3-2D直方图 Coverage Results" MODIFIED="1557225427630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch22-直方图" />
+    <SUITE FILE_PATH="coverage/CV_Python$23_1_4_.coverage" NAME="23.1.4 为什么拉普拉斯算子是高通滤波器 Coverage Results" MODIFIED="1559549968245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch23-图像变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$camera_compare1.coverage" NAME="camera_compare1 Coverage Results" MODIFIED="1555576506481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05-视频/相机_相片相似度" />
+    <SUITE FILE_PATH="coverage/CV_Python$SimpleBlobDetector.coverage" NAME="斑点检测SimpleBlobDetector Coverage Results" MODIFIED="1560408842068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch25-斑点检测" />
+    <SUITE FILE_PATH="coverage/CV_Python$4_1_imread_imshow.coverage" NAME="4.1_imread_imshow Coverage Results" MODIFIED="1555553095594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch04-图片" />
+    <SUITE FILE_PATH="coverage/CV_Python$DrawTheBigContour.coverage" NAME="DrawTheBigContour Coverage Results" MODIFIED="1557041466294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$18_Sobel.coverage" NAME="18.Sobel Coverage Results" MODIFIED="1556182457061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch18-图像梯度" />
+    <SUITE FILE_PATH="coverage/CV_Python$HoughCircles_chess1.coverage" NAME="HoughCircles_chess1 Coverage Results" MODIFIED="1560500345906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch26-Hough圆环变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$5_VideoWriter.coverage" NAME="5.VideoWriter Coverage Results" MODIFIED="1555574932094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05-视频" />
+    <SUITE FILE_PATH="coverage/CV_Python$21_4_3.coverage" NAME="21.4.3形状匹配 Coverage Results" MODIFIED="1557040735015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$Meanshift.coverage" NAME="Meanshift Coverage Results" MODIFIED="1562237545913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift" />
+    <SUITE FILE_PATH="coverage/CV_Python$HoughCircles.coverage" NAME="HoughCircles Coverage Results" MODIFIED="1560410048324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch26-Hough圆环变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$down_test.coverage" NAME="down_test Coverage Results" MODIFIED="1558079270934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my111video-retrieval/script" />
+    <SUITE FILE_PATH="coverage/CV_Python$hist.coverage" NAME="hist Coverage Results" MODIFIED="1557399279816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch22-直方图" />
+    <SUITE FILE_PATH="coverage/CV_Python$test_opencv_python.coverage" NAME="test-opencv-python Coverage Results" MODIFIED="1555486891142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02-安装OpenCV/最简单-使用pip安装opencv-python和opencv-contrib-python" />
+    <SUITE FILE_PATH="coverage/CV_Python$mask.coverage" NAME="mask Coverage Results" MODIFIED="1557469227218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch22-直方图" />
+    <SUITE FILE_PATH="coverage/CV_Python$minAreaRect.coverage" NAME="minAreaRect Coverage Results" MODIFIED="1557041527508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
     <SUITE FILE_PATH="coverage/CV_Python_Basic$21_1_2HowToCreateContours.coverage" NAME="21.1.2HowToCreateContours Coverage Results" MODIFIED="1550742541852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$3.coverage" NAME="图像相减3 Coverage Results" MODIFIED="1555986941281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10-图像上的算术运算" />
+    <SUITE FILE_PATH="coverage/CV_Python$14_getPerspectiveTransform.coverage" NAME="14.透视变换getPerspectiveTransform Coverage Results" MODIFIED="1556010347879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch14-几何变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$LineSegmentDectector1.coverage" NAME="LineSegmentDectector1 Coverage Results" MODIFIED="1560397190370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch25-Hough直线变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$9_itemset.coverage" NAME="9.itemset Coverage Results" MODIFIED="1555904442362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch09-图像的基础操作" />
+    <SUITE FILE_PATH="coverage/CV_Python$37_5_FLANN.coverage" NAME="37.5-FLANN匹配器 Coverage Results" MODIFIED="1561621968826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch37-特征匹配" />
+    <SUITE FILE_PATH="coverage/CV_Python$____.coverage" NAME="凸包-凸性检测-边界矩形-最小外接圆-拟合 Coverage Results" MODIFIED="1557041774716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$draw_opencv_logo.coverage" NAME="draw_opencv_logo Coverage Results" MODIFIED="1555640704279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch06-绘图函数" />
+    <SUITE FILE_PATH="coverage/CV_Python_Basic$21_4_3.coverage" NAME="21.4.3形状匹配 Coverage Results" MODIFIED="1550752215608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$10_bitwise_and.coverage" NAME="10.bitwise_and Coverage Results" MODIFIED="1555918089548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10-图像上的算术运算" />
+    <SUITE FILE_PATH="coverage/CV_Python$15_threshold.coverage" NAME="15.简单阈值threshold Coverage Results" MODIFIED="1556016210050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch15-图像阈值" />
+    <SUITE FILE_PATH="coverage/CV_Python$30_2__cornerSubPix.coverage" NAME="30.2-亚像素级精确度的角点-cornerSubPix Coverage Results" MODIFIED="1561084948236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch30-Harris角点检测" />
+    <SUITE FILE_PATH="coverage/CV_Python$py_test_in_test_camera_py.coverage" NAME="py.test in test_camera.py Coverage Results" MODIFIED="1555487186829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch02-安装OpenCV/最简单-使用pip安装opencv-python和opencv-contrib-python" />
+    <SUITE FILE_PATH="coverage/CV_Python$sift.coverage" NAME="sift Coverage Results" MODIFIED="1561444793622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch32-介绍SIFT" />
+    <SUITE FILE_PATH="coverage/CV_Python$14_wrapAffine.coverage" NAME="14.wrapAffine Coverage Results" MODIFIED="1556006087148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch14-几何变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$15_How_OTSU_work.coverage" NAME="15-How-OTSU-work Coverage Results" MODIFIED="1556160151371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch15-图像阈值" />
+    <SUITE FILE_PATH="coverage/CV_Python$21_moments.coverage" NAME="21-moments Coverage Results" MODIFIED="1557041006822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$24_1_OpenCV_matchTemplate.coverage" NAME="24.1-OpenCV中的末班匹配-matchTemplate Coverage Results" MODIFIED="1560221406602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch24-模板匹配" />
+    <SUITE FILE_PATH="coverage/CV_Python$5_VideoCapture.coverage" NAME="5.VideoCapture Coverage Results" MODIFIED="1555571422951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch05-视频" />
+    <SUITE FILE_PATH="coverage/CV_Python$17_erode.coverage" NAME="17.erode Coverage Results" MODIFIED="1556178066051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch17-形态学转换" />
+    <SUITE FILE_PATH="coverage/CV_Python$25_2_Probabilistic_Hough_Transform_HoughLinesP.coverage" NAME="25.2-Probabilistic-Hough-Transform-HoughLinesP Coverage Results" MODIFIED="1560395596001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch25-Hough直线变换" />
+    <SUITE FILE_PATH="coverage/CV_Python$1.coverage" NAME="长方形1 Coverage Results" MODIFIED="1555988382423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10-图像上的算术运算" />
     <SUITE FILE_PATH="coverage/CV_Python_Basic$____.coverage" NAME="凸包-凸性检测-边界矩形-最小外接圆-拟合 Coverage Results" MODIFIED="1551869183960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
     <SUITE FILE_PATH="coverage/CV_Python$grabCut2.coverage" NAME="grabCut2 Coverage Results" MODIFIED="1552981042606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取" />
-    <SUITE FILE_PATH="coverage/CV_Python_Basic$21_findContour.coverage" NAME="21-findContour Coverage Results" MODIFIED="1550754510145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
-    <SUITE FILE_PATH="coverage/CV_Python_Basic$.coverage" NAME="轮廓的性质 Coverage Results" MODIFIED="1552361636463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch21-轮廓Contours" />
+    <SUITE FILE_PATH="coverage/CV_Python$10_AddWeighted.coverage" NAME="10.AddWeighted Coverage Results" MODIFIED="1555917003567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ch10-图像上的算术运算" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="findContours2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/findContours2.py">
+      <file leaf-file-name="q.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/q.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="s.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/s.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="ÿ.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/ÿ.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="Meanshift.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/Meanshift.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="340">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
               <folding>
-                <element signature="e#131#141#0" expanded="true" />
+                <element signature="e#218#236#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="grabCut.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut.py">
+      <file leaf-file-name="Camshift.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/Camshift.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grabCut2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-              <folding>
-                <element signature="e#254#272#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OpenCV图像坐标系_test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch01-关于OpenCV/OpenCV图像坐标系_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#54#64#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -100,9 +361,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>CV_CAP_PROP_FRAME_COUNT</find>
+      <find>CAP_PROP_POS_FRAMES</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -110,20 +378,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ch21-轮廓Contours/21.1.2HowToCreateContours.py" />
-        <option value="$PROJECT_DIR$/ch21-轮廓Contours/21.4.3形状匹配.py" />
-        <option value="$PROJECT_DIR$/ch21-轮廓Contours/21.4MoreFunctions.py" />
-        <option value="$PROJECT_DIR$/ch21-轮廓Contours/21-findContour.py" />
-        <option value="$PROJECT_DIR$/ch21-轮廓Contours/21-moments.py" />
-        <option value="$PROJECT_DIR$/ch21-轮廓Contours/DrawTheBigContour.py" />
-        <option value="$PROJECT_DIR$/ch21-轮廓Contours/findContours2.py" />
-        <option value="$PROJECT_DIR$/ch21-轮廓Contours/minAreaRect.py" />
-        <option value="$PROJECT_DIR$/ch21-轮廓Contours/凸包-凸性检测-边界矩形-最小外接圆-拟合.py" />
-        <option value="$PROJECT_DIR$/ch21-轮廓Contours/凸缺陷.py" />
-        <option value="$PROJECT_DIR$/ch21-轮廓Contours/轮廓的性质.py" />
-        <option value="$PROJECT_DIR$/ch27-分水岭算法图像分割/watershed.py" />
-        <option value="$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py" />
-        <option value="$PROJECT_DIR$/ch01-关于OpenCV/OpenCV图像坐标系_test.py" />
+        <option value="$PROJECT_DIR$/ch22-直方图/mask.py" />
+        <option value="$PROJECT_DIR$/ch22-直方图/使用opencv进行直方图均衡化.py" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/script/reports_get_advertiser.py" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/script/video_get.py" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/script/down_test.py" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/script/video_fingerprint_export.py" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/script/video_url_get.py" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/script/video_main.py" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/video_retrieval.sh" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/script/cmf_video_main.py" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/script/cmf_video_fingerprint_export.py" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/cmf_video_retrieval.sh" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/script/video_download.py" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/fb_video_retrieval.sh" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/script/fb_video_fingerprint_export.py" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/script/fb_video_url_get.py" />
+        <option value="$PROJECT_DIR$/my111video-retrieval/script/fb_video_main.py" />
+        <option value="$PROJECT_DIR$/ch23-图像变换/23.1.3 DFT的性能优化.ipynb" />
+        <option value="$PROJECT_DIR$/ch23-图像变换/23.1.3 DFT的性能优化.py" />
+        <option value="$PROJECT_DIR$/ch23-图像变换/23.1.4 为什么拉普拉斯算子是高通滤波器.py" />
+        <option value="$PROJECT_DIR$/ch23-图像变换/fftshift-abs-Numpy.py" />
+        <option value="$PROJECT_DIR$/ch23-图像变换/fftshift-Numpy中的傅里叶变换.py" />
+        <option value="$PROJECT_DIR$/ch23-图像变换/opencv中的傅里叶变换-DFT.py" />
+        <option value="$PROJECT_DIR$/ch23-图像变换/openCV中的傅里叶变换-逆DFT.py" />
+        <option value="$PROJECT_DIR$/ch24-模板匹配/24.1-OpenCV中的末班匹配-matchTemplate.py" />
+        <option value="$PROJECT_DIR$/ch24-模板匹配/24.2-多对象的模板匹配-Multiple-objects.py" />
+        <option value="$PROJECT_DIR$/ch25-Hough直线变换/25.1-OpenCV中的霍夫变换-HoughLines.py" />
+        <option value="$PROJECT_DIR$/ch25-Hough直线变换/25.2-Probabilistic-Hough-Transform-HoughLinesP.py" />
+        <option value="$PROJECT_DIR$/ch25-Hough直线变换/HoughLinesP_camera.py" />
+        <option value="$PROJECT_DIR$/ch25-Hough直线变换/LineSegmentDectector1.py" />
+        <option value="$PROJECT_DIR$/ch25-斑点检测/blob.py" />
+        <option value="$PROJECT_DIR$/ch25-斑点检测/blob_camera.py" />
+        <option value="$PROJECT_DIR$/ch25-斑点检测/斑点检测SimpleBlobDetector.py" />
+        <option value="$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles.py" />
+        <option value="$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles_camera.py" />
+        <option value="$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles_chess.py" />
+        <option value="$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles_eyes.py" />
+        <option value="$PROJECT_DIR$/ch30-Harris角点检测/30.1-OpenCV-Harris角点检测-cornerHarris.py" />
+        <option value="$PROJECT_DIR$/ch30-Harris角点检测/30.2-亚像素级精确度的角点-cornerSubPix.py" />
+        <option value="$PROJECT_DIR$/ch31-Shi-Tomasi角点检测-适合于跟踪的图像特征/goodFeaturesToTrack.py" />
+        <option value="$PROJECT_DIR$/ch32-介绍SIFT/sift.py" />
+        <option value="$PROJECT_DIR$/ch33-介绍SURF/surf.py" />
+        <option value="$PROJECT_DIR$/ch34-角点检测的FAST算法/fast.py" />
+        <option value="$PROJECT_DIR$/ch35-BRIEF/brief.py" />
+        <option value="$PROJECT_DIR$/ch36-ORB/orb.py" />
+        <option value="$PROJECT_DIR$/ch37-特征匹配/37.2-对ORB描述进行蛮力匹配.py" />
+        <option value="$PROJECT_DIR$/ch37-特征匹配/37.4-SIF_match.py" />
+        <option value="$PROJECT_DIR$/ch37-特征匹配/37.5-FLANN匹配器.py" />
+        <option value="$PROJECT_DIR$/ch38-使用特征匹配和单应性查找对象/findHomography.py" />
+        <option value="$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/Meanshift.py" />
+        <option value="$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/Camshift.py" />
       </list>
     </option>
   </component>
@@ -137,8 +442,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="59" />
-    <option name="y" value="-4" />
+    <option name="x" value="681" />
+    <option name="y" value="22" />
     <option name="width" value="1294" />
     <option name="height" value="1011" />
   </component>
@@ -161,12 +466,12 @@
             <path>
               <item name="CV-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="CV-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="ch01-关于OpenCV" type="462c0819:PsiDirectoryNode" />
+              <item name="ch39-视频分析-Meanshift和Camshift" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CV-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="CV-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="my111video-retrieval" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,7 +481,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../book" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -184,9 +489,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取" />
-      <recent name="$PROJECT_DIR$/ch21-轮廓Contours" />
-      <recent name="$PROJECT_DIR$/ch21-轮廓Contours" />
+      <recent name="$PROJECT_DIR$/ch26-Hough圆环变换" />
+      <recent name="$PROJECT_DIR$/ch25-Hough直线变换" />
+      <recent name="$PROJECT_DIR$/my111video-retrieval" />
+      <recent name="$PROJECT_DIR$/my111video-retrieval/script" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -201,8 +507,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.OpenCV图像坐标系_test">
-    <configuration name="凸缺陷" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Meanshift">
+    <configuration name="37.2-对ORB描述进行蛮力匹配" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CV-Python-Basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,18 +516,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch21-轮廓Contours" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch37-特征匹配" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch21-轮廓Contours/凸缺陷.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch37-特征匹配/37.2-对ORB描述进行蛮力匹配.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="OpenCV图像坐标系_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="37.4-SIF_match" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CV-Python-Basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,18 +535,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch01-关于OpenCV" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch37-特征匹配" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch01-关于OpenCV/OpenCV图像坐标系_test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch37-特征匹配/37.4-SIF_match.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="轮廓的性质" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="37.5-FLANN匹配器" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CV-Python-Basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -248,18 +554,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch21-轮廓Contours" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch37-特征匹配" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch21-轮廓Contours/轮廓的性质.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch37-特征匹配/37.5-FLANN匹配器.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="grabCut2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Meanshift" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CV-Python-Basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -267,18 +573,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/Meanshift.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="minAreaRect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="down_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CV-Python-Basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -286,18 +592,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch21-轮廓Contours" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my111video-retrieval/script" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch21-轮廓Contours/minAreaRect.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my111video-retrieval/script/down_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="watershed" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="findHomography" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CV-Python-Basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,31 +611,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch27-分水岭算法图像分割" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch38-使用特征匹配和单应性查找对象" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch27-分水岭算法图像分割/watershed.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch38-使用特征匹配和单应性查找对象/findHomography.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.minAreaRect" />
-      <item itemvalue="Python.凸缺陷" />
-      <item itemvalue="Python.watershed" />
-      <item itemvalue="Python.grabCut2" />
-      <item itemvalue="Python.OpenCV图像坐标系_test" />
+      <item itemvalue="Python.37.2-对ORB描述进行蛮力匹配" />
+      <item itemvalue="Python.37.4-SIF_match" />
+      <item itemvalue="Python.37.5-FLANN匹配器" />
+      <item itemvalue="Python.findHomography" />
+      <item itemvalue="Python.Meanshift" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.OpenCV图像坐标系_test" />
-        <item itemvalue="Python.grabCut2" />
-        <item itemvalue="Python.minAreaRect" />
-        <item itemvalue="Python.watershed" />
-        <item itemvalue="Python.凸缺陷" />
+        <item itemvalue="Python.Meanshift" />
+        <item itemvalue="Python.findHomography" />
+        <item itemvalue="Python.37.5-FLANN匹配器" />
+        <item itemvalue="Python.37.4-SIF_match" />
+        <item itemvalue="Python.37.2-对ORB描述进行蛮力匹配" />
       </list>
     </recent_temporary>
   </component>
@@ -346,33 +652,43 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_test_camera_py - 2019.04.17 at 15h 45m 56s.xml">
+      <configuration name="py.test in test_camera.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_camera_py - 2019.04.17 at 15h 46m 28s.xml">
+      <configuration name="py.test in test_camera.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_opencv_contrib_python_py - 2019.04.17 at 18h 45m 07s.xml">
+      <configuration name="py.test in test_opencv_contrib_python.py" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="-4" width="1845" height="1011" extended-state="6" />
-    <editor active="true" />
+    <frame x="59" y="-4" width="1837" height="981" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3002232" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12896053" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32924107" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2767857" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32900944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27470687" />
       <window_info anchor="right" id="R Packages" order="3" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.32962757" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" x="59" y="52" width="1845" height="955" id="SciView" order="6" side_tool="true" weight="0.32795998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955357" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984375" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32924107" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,359 +699,297 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/findContours2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#131#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/data/mask.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/data/mario_coin.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#254#272#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/data/mario.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch01-关于OpenCV/OpenCV图像坐标系_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="e#54#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/findContours2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#131#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="e#254#272#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch01-关于OpenCV/OpenCV图像坐标系_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="30" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="30" />
-          <folding>
-            <element signature="e#54#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/DrawTheBigContour.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="96" selection-start-line="16" selection-start-column="96" selection-end-line="16" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/findContours2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#131#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/凸包-凸性检测-边界矩形-最小外接圆-拟合.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/凸缺陷.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/轮廓的性质.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch27-分水岭算法图像分割/watershed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding>
-            <element signature="e#254#272#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/minAreaRect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/DrawTheBigContour.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="96" selection-start-line="16" selection-start-column="96" selection-end-line="16" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/findContours2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#131#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/minAreaRect.py">
+    <entry file="file://$PROJECT_DIR$/ch24-模板匹配/24.2-多对象的模板匹配-Multiple-objects.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/凸包-凸性检测-边界矩形-最小外接圆-拟合.py">
+    <entry file="file://$PROJECT_DIR$/ch24-模板匹配/24.1-OpenCV中的末班匹配-matchTemplate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        <state relative-caret-position="360">
+          <caret line="52" column="26" selection-start-line="52" selection-start-column="26" selection-end-line="52" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/凸缺陷.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/轮廓的性质.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch27-分水岭算法图像分割/watershed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1054">
-          <caret line="64" column="14" lean-forward="true" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21.1.2HowToCreateContours.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21.4.3形状匹配.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21.1.2HowToCreateContours.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="850">
-          <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21.4MoreFunctions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21.4.3形状匹配.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/chessboard.jpeg">
+    <entry file="file://$PROJECT_DIR$/data/sudoku.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/什么是轮廓.txt">
+    <entry file="file://$PROJECT_DIR$/ch25-Hough直线变换/25.1-OpenCV中的霍夫变换-HoughLines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="50" lean-forward="true" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch25-Hough直线变换/25.2-Probabilistic-Hough-Transform-HoughLinesP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1856506362/cv2/cv2/VideoCapture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="197" column="8" selection-start-line="197" selection-start-column="8" selection-end-line="197" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch25-Hough直线变换/HoughLinesP_camera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch25-Hough直线变换/LineSegmentDectector1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch25-斑点检测/blob.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch25-斑点检测/blob_camera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="19" lean-forward="true" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch25-斑点检测/斑点检测SimpleBlobDetector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch26-Hough圆环变换/eye-color-blue-z-c-660x440.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch26-Hough圆环变换/X8IWYE.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch26-Hough圆环变换/TLFOLV.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch26-Hough圆环变换/QJ84BL.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch26-Hough圆环变换/4HDL7T.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles_chess1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21-findContour.py">
+    <entry file="file://$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles_camera.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="323">
+          <caret line="19" column="39" lean-forward="true" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/21-moments.py">
+    <entry file="file://$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles_chess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="361">
+          <caret line="55" column="38" lean-forward="true" selection-start-line="55" selection-start-column="38" selection-end-line="55" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/DrawTheBigContour.py">
+    <entry file="file://$PROJECT_DIR$/ch26-Hough圆环变换/HoughCircles_eyes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="96" selection-start-line="16" selection-start-column="96" selection-end-line="16" selection-end-column="96" />
+        <state relative-caret-position="391">
+          <caret line="23" column="10" lean-forward="true" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/contour.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1856506362/cv2/cv2/__init__.py">
+    <entry file="file://$PROJECT_DIR$/ch29-理解图像特征/note.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-595">
-          <caret line="7116" column="4" selection-start-line="7116" selection-start-column="4" selection-end-line="7116" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/findContours2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#131#141#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/凸包-凸性检测-边界矩形-最小外接圆-拟合.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1156">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/star.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/凸缺陷.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/轮廓的层次结构.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/轮廓的性质.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch27-分水岭算法图像分割/watershed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        <state>
+          <caret selection-end-line="1" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch21-轮廓Contours/minAreaRect.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1856506362/cv2/cv2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="398">
+          <caret line="4524" column="40" lean-forward="true" selection-start-line="4524" selection-start-column="40" selection-end-line="4524" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch28-使用GrabCut算法进行交互式前景提取/grabCut2.py">
+    <entry file="file://$PROJECT_DIR$/ch30-Harris角点检测/30.1-OpenCV-Harris角点检测-cornerHarris.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="-17">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch30-Harris角点检测/30.2-亚像素级精确度的角点-cornerSubPix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch32-介绍SIFT/sift_keypoints.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch31-Shi-Tomasi角点检测-适合于跟踪的图像特征/goodFeaturesToTrack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda2/envs/py35/lib/python3.5/site-packages/cv2/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/ch34-角点检测的FAST算法/fast_false.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch34-角点检测的FAST算法/fast_true.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch33-介绍SURF/surf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch32-介绍SIFT/sift.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch34-角点检测的FAST算法/fast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1856506362/cv2/cv2/__init__/BOWImgDescriptorExtractor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch35-BRIEF/brief.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch36-ORB/orb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch37-特征匹配/37.2-对ORB描述进行蛮力匹配.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch37-特征匹配/37.4-SIF_match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1856506362/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="2244" column="127" selection-start-line="2244" selection-start-column="127" selection-end-line="2244" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch37-特征匹配/37.5-FLANN匹配器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch38-使用特征匹配和单应性查找对象/findHomography.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/q.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/s.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/ÿ.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1405206932/cv2/cv2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="2790" column="4" selection-start-line="2790" selection-start-column="4" selection-end-line="2790" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/Meanshift.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
           <folding>
-            <element signature="e#254#272#0" expanded="true" />
+            <element signature="e#218#236#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/anaconda2/envs/py35/lib/python3.5/site-packages/ipykernel/pickleutil.py">
+    <entry file="file://$PROJECT_DIR$/ch39-视频分析-Meanshift和Camshift/Camshift.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="266" column="13" selection-start-line="266" selection-start-column="13" selection-end-line="266" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch01-关于OpenCV/OpenCV图像坐标系_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#54#64#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

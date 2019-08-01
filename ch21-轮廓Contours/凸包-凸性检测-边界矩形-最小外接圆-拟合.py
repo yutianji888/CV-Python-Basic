@@ -7,8 +7,9 @@
 import cv2
 import numpy as np
 
-img = cv2.imread('../data/lighting.png', 0)
+img = cv2.imread('../data/lightning.png', 0)
 image, contours, hierarchy = cv2.findContours(img, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
+# print(contours)
 cnt = contours[0]
 
 '''
@@ -34,7 +35,7 @@ k = cv2.isContourConvex(cnt)
  x y 为矩形左上角的坐标 w h 是矩形的宽和 。
 '''
 x, y, w, h = cv2.boundingRect(cnt)
-img = cv2.rectangle(img, (x,y), (x+w, y+h), (0, 255, 0), 2)
+img = cv2.rectangle(img, (x, y), (x+w, y+h), (0, 255, 0), 2)
 
 '''
 旋转矩形
